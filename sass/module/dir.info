@@ -1,0 +1,17 @@
+// for Module folder
+
+USE => .class
+
+EXAMPLE:
+		.module > h2 {
+		    padding: 5px;
+		}
+
+		.module span {
+		    padding: 5px;
+		}
+
+				<div class="fld">
+				    <span class="fld-name">Folder Name</span> 
+				    <span class="fld-items">(32 items)</span>
+				</div>

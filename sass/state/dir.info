@@ -1,0 +1,9 @@
+// for state folder
+
+
+Hidden, active, collapsed
+
+USE => .is-hidden, .is-active, .is-collapsed
+
+mainRule::::: add this classes only with JS
+

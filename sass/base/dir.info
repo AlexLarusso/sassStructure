@@ -1,0 +1,19 @@
+// For base folder
+
+It folder conteins only base styles (TAGS only), reset.css, modernizer, else.
+
+
+Example:
+		body, form {
+		    margin: 0;
+		    padding: 0;
+		}
+
+		a {
+		    color: #039;
+		}
+
+		a:hover {
+		    color: #03F;    
+		}
+
